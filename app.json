@@ -1,0 +1,11 @@
+{
+  "name": "innovation-test",
+  "displayName": "innovation-test",
+  "expo": {
+    "name": "innovation-test",
+    "slug": "innovation-test",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
